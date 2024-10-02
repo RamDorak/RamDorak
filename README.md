@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamDorak
-- 👀 I’m interested in AI, ML, Data Science an Full Stack Web Development.
-- 🌱 I’m currently learning Python, ReactJS
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m interested in Data Science & Analytics, Computer Networks and Cybersecurity.
+- 💪 Skills: Data Structures and Algorithms, SQL, Computer Networks, Operating Systems.
+- 🤓 Leetcode Profile: https://leetcode.com/u/RamDorak/
 - 📫 How to reach me https://www.linkedin.com/in/ram-dorak-4281a2263
 
 <!---
